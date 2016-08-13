@@ -1,7 +1,7 @@
 
 ## Google Place Ex using React Native
  
- <h4>Built using <a hef="https://github.com/start-react/native-starter-kit#native-starter-kit-v400"> Native Starter Kit v4.0.0</a></h4>
+ <h4>Built using <a href="https://github.com/start-react/native-starter-kit#native-starter-kit-v400"> Native Starter Kit v4.0.0</a></h4>
  <p>Example app receives information from the Google API based on the users current location. Displays data in MapView and ListView in this case, the key term searched is bar.</p>
  <p>Example use found in js folder</p>
 
